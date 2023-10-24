@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samkopmann
 - 👀 I’m interested in computer networks and machine learning.
 - 🌱 I’m currently reasearching in the area network security, detecting and mitigating volumetric DDoS attacks efficiently.
-- 💞️ I’m looking to collaborate on the implementation of intrusion detection/mitigation demonstrators.
+- 💞️ I’m looking for collaboration implementing intrusion detection/mitigation demonstrators.
 - 📫 How to reach me: samuel@kopmann.com
 
 <!---
